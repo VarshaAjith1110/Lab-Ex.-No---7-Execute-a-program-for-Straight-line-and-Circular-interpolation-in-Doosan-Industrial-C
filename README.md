@@ -44,12 +44,21 @@ Linear Interpolation
 Circular Interpolation
 
 ### output
+![image](https://github.com/VarshaAjith1110/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/assets/94222288/602f1f4d-0998-4d80-acde-93a3fc671576)
+![image](https://github.com/VarshaAjith1110/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/assets/94222288/3af7b607-a6c4-4dde-8ef7-d7afb4d2301f)
+![image](https://github.com/VarshaAjith1110/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/assets/94222288/b891a34d-a403-4a4c-a737-3e596a890727)
+![image](https://github.com/VarshaAjith1110/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/assets/94222288/0761b8a1-3662-49ef-aa97-a93cb2b2cad8)
+![image](https://github.com/VarshaAjith1110/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/assets/94222288/4a1ebf20-e057-4512-a8cc-56a88da28da3)
+## Linear Interpolation
+![image](https://github.com/VarshaAjith1110/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/assets/94222288/560fb2ee-8b24-489a-8915-23af7637095a)
+## Circular Interpolation
+![image](https://github.com/VarshaAjith1110/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/assets/94222288/90543cda-8e4a-4696-a6da-612b15f3ba64)
 
 
 
 
 ### Results 
-
+A program for Straight-line and Circular interpolation in Doosan Industrial Cobot using DRL studio has been executed successfully..
 
 
  
